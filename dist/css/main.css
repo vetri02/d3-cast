@@ -1,0 +1,8 @@
+* {
+  font-family: helvetica, arial; }
+
+circle {
+  fill: #333; }
+
+.deleted {
+  text-decoration: line-through; }
